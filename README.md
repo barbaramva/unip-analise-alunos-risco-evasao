@@ -7,9 +7,9 @@ Este projeto apresenta um **dashboard em Power BI**, desenvolvido a partir de **
 ## 🗂 Estrutura do repositório
 
 -README.md
--Analise_Alunos_UNIP.pbix   
 -print-dashboard-preview.png      
--print-tabela-dos-insights.png      
+-print-tabela-dos-insights.png   
+-Analise_Alunos_UNIP.pbix
 -resumo-insights.md         
 
 ---

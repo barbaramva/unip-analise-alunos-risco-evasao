@@ -7,10 +7,10 @@ Este projeto apresenta um **dashboard em Power BI**, desenvolvido a partir de **
 ## 🗂 Estrutura do repositório
 
 ├── README.md
-├── Analise_Alunos_UNIP.pbix   ---- dashboard
-├── print-dashboard-preview.png      ---- imagem 1
-│ └ print-tabela-dos-insights.png      ---- imagem 2
-└── resumo-insights.md         ---- resumo dos insights
+├── Analise_Alunos_UNIP.pbix   
+├── print-dashboard-preview.png      
+│ └ print-tabela-dos-insights.png      
+└── resumo-insights.md         
 
 ---
 
@@ -53,7 +53,7 @@ Este projeto apresenta um **dashboard em Power BI**, desenvolvido a partir de **
 ## 🛠 Ferramentas & Técnicas
 - **Power BI Desktop**  
 - **DAX (Data Analysis Expressions)**  
-- **Filtros de visualização (Adimplentes = 0)**  
+- **Filtros de visualização**
 
 ---
 

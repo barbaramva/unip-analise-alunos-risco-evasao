@@ -1,10 +1,10 @@
-# 🎓 Análise de Alunos – Risco de Evasão (UNIP)
+# Análise de Alunos – Risco de Evasão (UNIP)
 
 Este projeto apresenta um **dashboard em Power BI**, desenvolvido a partir de **dados coletados internamente por mim (funcionária da UNIP)**, com o objetivo de analisar **adimplência, acesso ao AVA, perfil (calouros x veteranos)** e identificar **grupos de maior risco de evasão** referentes ao **1º semestre de 2025**.  
 
 ---
 
-## 📊 Páginas do Dashboard
+## Páginas do Dashboard
 
 ### **1. Página 1 – Visão Geral**
 - **Cabeçalho:** Logo da UNIP + título “Análise de Alunos – Risco de Evasão”.
@@ -32,7 +32,7 @@ Este projeto apresenta um **dashboard em Power BI**, desenvolvido a partir de **
 
 ---
 
-## 🧠 Insights Estratégicos
+## Insights Estratégicos
 - **44 alunos** estão inadimplentes, sendo **28 (64%) sem acesso ao AVA**.  
 - **93% dos calouros inadimplentes** estão sem acesso (14 de 15).  
 - **Calouros inadimplentes sem acesso** são o **grupo mais crítico** (maior risco de evasão).
@@ -40,14 +40,14 @@ Este projeto apresenta um **dashboard em Power BI**, desenvolvido a partir de **
 
 ---
 
-## 🛠 Ferramentas & Técnicas
+## Ferramentas & Técnicas
 - **Power BI Desktop**  
 - **DAX (Data Analysis Expressions)**  
 - **Filtros de visualização**
 
 ---
 
-## 📥 Como visualizar
+## Como visualizar
 - Abra o arquivo `dashboard/Analise_Alunos_UNIP.pbix` no **Power BI Desktop**.
 - **Pré-visualizações:**  
   - **Página 1:** ![Página 1](imagens/Print-dashboard-preview.png)  
